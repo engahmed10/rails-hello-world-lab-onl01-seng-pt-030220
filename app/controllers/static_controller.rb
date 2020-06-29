@@ -1,1 +1,1 @@
-class static_controller < Application_
+class StaticController < ApplicationController
