@@ -1,0 +1,1 @@
+class static_controller < Application_
